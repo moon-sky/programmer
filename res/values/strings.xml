@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">程序猿面试题</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="test_array">
+        <item >android</item>
+        <item >java</item>
+        <item >php</item>
+    </string-array>
+
+</resources>
